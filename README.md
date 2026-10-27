@@ -1,4 +1,5 @@
-<a>Z E N I T H</a>
+Z E N I T H
+
 Software that moves your business forward.
 
 We build software that solves real problems. From custom platforms to intelligent automations, we help businesses spend less time on repetitive tasks and more time growing.
